@@ -6,8 +6,10 @@ plugins {
 android {
     compileSdk 32
 
+    namespace "com.SANANTONIO.CAMSTORAGEV2"
+    
     defaultConfig {
-        applicationId "com.example.cameraxcompose"
+        applicationId "com.SANANTONIO.CAMSTORAGEV2"
         minSdk 21
         targetSdk 32
         versionCode 1
